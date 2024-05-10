@@ -11,7 +11,7 @@ fn sum(number_1: i32, number_2: i32) -> i32 {
     let number_3: i32 = number_1 + number_2;
     number_3
 }
-
+//function2
 fn sum_2(age1: i32, age2: i32) -> i32 {
     let total_ages: i32 = age1 + age2;
     total_ages
