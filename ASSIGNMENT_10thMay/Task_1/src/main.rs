@@ -1,5 +1,3 @@
-
-
 fn main() {
     let mut numbers = [0; 50];
 
